@@ -6,7 +6,7 @@ const Home = () => {
       <Navbar />
 
       {/* Hero Section */}
-      <div className="text-center py-20 bg-gradient-to-r from-blue-600 to-blue-800">
+      <div className="text-center py-20 bg-gradient-to-r from-blue-600 to-purple-800">
         <h1 className="text-5xl font-bold text-white">
           Manage Your Users Effortlessly
         </h1>
@@ -198,7 +198,7 @@ const Home = () => {
       </div>
 
       {/* Call to Action Section */}
-      <div className="text-center py-10 bg-gradient-to-r from-blue-600 to-blue-800">
+      <div className="text-center py-10 bg-gradient-to-r from-blue-600 to-purple-800">
         <h2 className="text-3xl font-bold text-white">
           Ready to Transform Your User Management?
         </h2>
